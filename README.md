@@ -30,6 +30,10 @@
 	`sail artisan {command}`
 
 
+	but if docker-compose file is required, I have added it in git repo.
+
+
+
 - How to test login and call the API (e.g., using curl/Postman)
 
 	You can test the get top customer api using postman
